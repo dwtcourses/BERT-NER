@@ -1,0 +1,26 @@
+Traceback (most recent call last):
+  File "run_ner.py", line 11, in <module>
+    import numpy as np
+  File "/home/joeyism/Programming/python/BERT-NER/venv/lib/python3.6/site-packages/numpy/__init__.py", line 145, in <module>
+    from . import lib
+  File "/home/joeyism/Programming/python/BERT-NER/venv/lib/python3.6/site-packages/numpy/lib/__init__.py", line 36, in <module>
+    from .polynomial import *
+  File "/home/joeyism/Programming/python/BERT-NER/venv/lib/python3.6/site-packages/numpy/lib/polynomial.py", line 31, in <module>
+    class RankWarning(UserWarning):
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "run_ner.py", line 11, in <module>
+    import numpy as np
+  File "/home/joeyism/Programming/python/BERT-NER/venv/lib/python3.6/site-packages/numpy/__init__.py", line 228, in <module>
+    from .testing import Tester
+  File "/home/joeyism/Programming/python/BERT-NER/venv/lib/python3.6/site-packages/numpy/testing/__init__.py", line 10, in <module>
+    from unittest import TestCase
+  File "/usr/lib/python3.6/unittest/__init__.py", line 59, in <module>
+    from .case import (TestCase, FunctionTestCase, SkipTest, skip, skipIf,
+  File "<frozen importlib._bootstrap>", line 971, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 955, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 665, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 674, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 779, in get_code
+  File "<frozen importlib._bootstrap_external>", line 487, in _compile_bytecode
+KeyboardInterrupt
