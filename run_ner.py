@@ -579,7 +579,7 @@ def main():
                         break
                     else:
                         temp_1.append(label_map[label_ids[i][j]])
-                        print(logits)
+                        print(i, j, logits.shape, logits, label_map)
                         temp_2.append(label_map[logits[i][j]])
 
         report = classification_report(y_true, y_pred,digits=4)
