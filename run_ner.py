@@ -580,7 +580,10 @@ def main():
                     else:
                         temp_1.append(label_map[label_ids[i][j]])
                         print(i, j, logits.shape, logits, label_map)
-                        temp_2.append(label_map[logits[i][j]])
+                        try:
+                          temp_2.append(label_map[logits[i][j]])
+                        except:
+                          import pdb; pdb.set_trace()
 
         report = classification_report(y_true, y_pred,digits=4)
         logger.info("\n%s", report)
