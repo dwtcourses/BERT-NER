@@ -578,11 +578,9 @@ def main():
                         y_pred.append(temp_2)
                         break
                     else:
-                        temp_1.append(label_map[label_ids[i][j]])
-                        try:
+                        if logits[i][j] != 0:
+                          temp_1.append(label_map[label_ids[i][j]])
                           temp_2.append(label_map[logits[i][j]])
-                        except:
-                          temp_2.append(label_map[1])
 
         report = classification_report(y_true, y_pred,digits=4)
         logger.info("\n%s", report)
