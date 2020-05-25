@@ -1,0 +1,437 @@
+Afghanistan B-LOC
+
+Albania B-LOC
+
+Algeria B-LOC
+
+Andorra B-LOC
+
+Angola B-LOC
+
+Antigua B-LOC
+& I-LOC
+Deps I-LOC
+
+Argentina B-LOC
+
+Armenia B-LOC
+
+Australia B-LOC
+
+Austria B-LOC
+
+Azerbaijan B-LOC
+
+Bahamas B-LOC
+
+Bahrain B-LOC
+
+Bangladesh B-LOC
+
+Barbados B-LOC
+
+Belarus B-LOC
+
+Belgium B-LOC
+
+Belize B-LOC
+
+Benin B-LOC
+
+Bhutan B-LOC
+
+Bolivia B-LOC
+
+Bosnia B-LOC
+Herzegovina I-LOC
+
+Botswana B-LOC
+
+Brazil B-LOC
+
+Brunei B-LOC
+
+Bulgaria B-LOC
+
+Burkina B-LOC
+
+Burundi B-LOC
+
+Cambodia B-LOC
+
+Cameroon B-LOC
+
+Canada B-LOC
+
+Cape B-LOC
+Verde I-LOC
+
+Central B-LOC
+African I-LOC
+Rep I-LOC
+
+Chad B-LOC
+
+Chile B-LOC
+
+China B-LOC
+
+Colombia B-LOC
+
+Comoros B-LOC
+
+Congo B-LOC
+
+Congo B-LOC
+
+Costa B-LOC
+Rica I-LOC
+
+Croatia B-LOC
+
+Cuba B-LOC
+
+Cyprus B-LOC
+
+Czech B-LOC
+Republic I-LOC
+
+Denmark B-LOC
+
+Djibouti B-LOC
+
+Dominica B-LOC
+
+Dominican B-LOC
+Republic I-LOC
+
+East B-LOC
+Timor I-LOC
+
+Ecuador B-LOC
+
+Egypt B-LOC
+
+El B-LOC
+Salvador I-LOC
+
+Equatorial B-LOC
+Guinea I-LOC
+
+Eritrea B-LOC
+
+Estonia B-LOC
+
+Ethiopia B-LOC
+
+Fiji B-LOC
+
+Finland B-LOC
+
+France B-LOC
+
+Gabon B-LOC
+
+Gambia B-LOC
+
+Georgia B-LOC
+
+Germany B-LOC
+
+Ghana B-LOC
+
+Greece B-LOC
+
+Grenada B-LOC
+
+Guatemala B-LOC
+
+Guinea B-LOC
+
+Guinea-Bissau B-LOC
+
+Guyana B-LOC
+
+Haiti B-LOC
+
+Honduras B-LOC
+
+Hungary B-LOC
+
+Iceland B-LOC
+
+India B-LOC
+
+Indonesia B-LOC
+
+Iran B-LOC
+
+Iraq B-LOC
+
+Ireland B-LOC
+
+Israel B-LOC
+
+Italy B-LOC
+
+Ivory B-LOC
+Coast I-LOC
+
+Jamaica B-LOC
+
+Japan B-LOC
+
+Jordan B-LOC
+
+Kazakhstan B-LOC
+
+Kenya B-LOC
+
+Kiribati B-LOC
+
+Korea B-LOC
+North I-LOC
+
+Korea B-LOC
+South I-LOC
+
+Kosovo B-LOC
+
+Kuwait B-LOC
+
+Kyrgyzstan B-LOC
+
+Laos B-LOC
+
+Latvia B-LOC
+
+Lebanon B-LOC
+
+Lesotho B-LOC
+
+Liberia B-LOC
+
+Libya B-LOC
+
+Liechtenstein B-LOC
+
+Lithuania B-LOC
+
+Luxembourg B-LOC
+
+Macedonia B-LOC
+
+Madagascar B-LOC
+
+Malawi B-LOC
+
+Malaysia B-LOC
+
+Maldives B-LOC
+
+Mali B-LOC
+
+Malta B-LOC
+
+Marshall B-LOC
+Islands I-LOC
+
+Mauritania B-LOC
+
+Mauritius B-LOC
+
+Mexico B-LOC
+
+Micronesia B-LOC
+
+Moldova B-LOC
+
+Monaco B-LOC
+
+Mongolia B-LOC
+
+Montenegro B-LOC
+
+Morocco B-LOC
+
+Mozambique B-LOC
+
+Myanmar, B-LOC
+
+Namibia B-LOC
+
+Nauru B-LOC
+
+Nepal B-LOC
+
+Netherlands B-LOC
+
+New B-LOC
+Zealand I-LOC
+
+Nicaragua B-LOC
+
+Niger B-LOC
+
+Nigeria B-LOC
+
+Norway B-LOC
+
+Oman B-LOC
+
+Pakistan B-LOC
+
+Palau B-LOC
+
+Panama B-LOC
+
+Papua B-LOC
+New I-LOC
+Guinea I-LOC
+
+Paraguay B-LOC
+
+Peru B-LOC
+
+Philippines B-LOC
+
+Poland B-LOC
+
+Portugal B-LOC
+
+Qatar B-LOC
+
+Romania B-LOC
+
+Russian B-LOC
+Federation I-LOC
+
+Rwanda B-LOC
+
+St B-LOC
+Kitts I-LOC
+& I-LOC
+Nevis I-LOC
+
+St B-LOC
+Lucia I-LOC
+
+Saint B-LOC
+Vincent I-LOC
+& I-LOC
+the I-LOC
+Grenadines I-LOC
+
+Samoa B-LOC
+
+San B-LOC
+Marino I-LOC
+
+Sao B-LOC
+Tome I-LOC
+& I-LOC
+Principe I-LOC
+
+Saudi B-LOC
+Arabia I-LOC
+
+Senegal B-LOC
+
+Serbia B-LOC
+
+Seychelles B-LOC
+
+Sierra B-LOC
+Leone I-LOC
+
+Singapore B-LOC
+
+Slovakia B-LOC
+
+Slovenia B-LOC
+
+Solomon B-LOC
+Islands I-LOC
+
+Somalia B-LOC
+
+South B-LOC
+Africa I-LOC
+
+South B-LOC
+Sudan I-LOC
+
+Spain B-LOC
+
+Sri B-LOC
+Lanka I-LOC
+
+Sudan B-LOC
+
+Suriname B-LOC
+
+Swaziland B-LOC
+
+Sweden B-LOC
+
+Switzerland B-LOC
+
+Syria B-LOC
+
+Taiwan B-LOC
+
+Tajikistan B-LOC
+
+Tanzania B-LOC
+
+Thailand B-LOC
+
+Togo B-LOC
+
+Tonga B-LOC
+
+Trinidad B-LOC
+& I-LOC
+Tobago I-LOC
+
+Tunisia B-LOC
+
+Turkey B-LOC
+
+Turkmenistan B-LOC
+
+Tuvalu B-LOC
+
+Uganda B-LOC
+
+Ukraine B-LOC
+
+United B-LOC
+Arab I-LOC
+Emirates I-LOC
+
+United B-LOC
+Kingdom I-LOC
+
+United B-LOC
+States I-LOC
+
+Uruguay B-LOC
+
+Uzbekistan B-LOC
+
+Vanuatu B-LOC
+
+Vatican B-LOC
+City I-LOC
+
+Venezuela B-LOC
+
+Vietnam B-LOC
+
+Yemen B-LOC
+
+Zambia B-LOC
+
+Zimbabwe B-LOC
+
